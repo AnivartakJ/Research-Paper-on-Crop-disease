@@ -1,4 +1,5 @@
 # Research-Paper-on-Crop-disease
+ To acces the website : http://coviprovision.000webhostapp.com/ <br>
 Crop disease detection in Tomato leaf using STN- CNN model
 Crop diseases pose a significant threat to global food security, and early detection is crucial for effective disease management. In this study, we propose a novel approach for crop disease detection in tomato leaves using a Spatio-Temporal Network ( STN) combined with a Convolutional Neural Network (CNN) model. The STN-CNN model leverages the spatio-temporal patterns of disease progression in plant leaves, enhancing the detection accuracy and robustness.
 
